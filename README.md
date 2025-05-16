@@ -1,2 +1,2 @@
-# Curso-Henry
-Clases de Henry sobre JavaScript
+Este proyecto es prueba de como se utiliza githubs de repositorio.
+johan portilla
